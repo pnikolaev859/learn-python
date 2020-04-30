@@ -1,0 +1,16 @@
+{
+  "name": "hello-jamstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "initapp": "cuttlebelle init",
+    "watch": "cuttlebelle watch --silent"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cuttlebelle": "^1.0.0-alpha.69"
+  }
+}
